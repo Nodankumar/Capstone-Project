@@ -1,0 +1,15 @@
+/* Reset body margin and padding */
+body {
+  margin: 0;
+  padding: 0;
+
+}
+
+/* Reset .image margin and padding */
+.image {
+  height: 700px;
+  background-size: contain;
+  width: auto;
+  background-image: url('admin/aadhar.jpg');
+  background-position: 50% 50%;
+}
